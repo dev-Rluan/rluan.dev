@@ -13,7 +13,7 @@
 | 프로젝트 | 주소 | 비고 |
 |---|---|---|
 | Pebblecraft | https://pebblecraft.io | 게임 공방 (Touch Down, Castaways, Massive Consumer) |
-| MapleTactics | https://github.com/MagunMadown/MapleTactics | 팀 참여: 전투 시스템, 데이터 검증, 설계 문서 |
+| MapleTactics | https://maplestoryworlds.nexon.com/ko/play/d153fb40635e411ea9aa54d2740892a1 (코드: https://github.com/MagunMadown/MapleTactics) | 팀 참여: 전투 시스템, 데이터 검증, 설계 문서 |
 | growtok | 준비 중 | 보육일지 작성·관리 서비스 |
 
 ## 손으로 고칠 것
