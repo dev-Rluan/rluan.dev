@@ -13,6 +13,8 @@
 | 프로젝트 | 주소 | 비고 |
 |---|---|---|
 | Pebblecraft | https://pebblecraft.io | 게임 공방 (Touch Down, Castaways, Massive Consumer) |
+| Pebble Village | https://github.com/dev-Rluan/pebble-village | Claude Code·Codex 작업 상태를 보여 주는 로컬 대시보드 (오픈소스) |
+| AI Notes | 비공개 | 발표·회의 녹음 받아쓰기·요약 개인 도구. 화면 이미지는 저장소의 `design/previews` 시안 |
 | MapleTactics | https://maplestoryworlds.nexon.com/ko/play/d153fb40635e411ea9aa54d2740892a1 (코드: https://github.com/MagunMadown/MapleTactics) | 팀 참여: 전투 시스템, 데이터 검증, 설계 문서 |
 | growtok | 준비 중 | 보육일지 작성·관리 서비스 |
 
