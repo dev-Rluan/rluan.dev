@@ -7,7 +7,7 @@
 - 페이지: `public/` (정적 HTML, 빌드 없음)
 - 배포: Cloudflare Workers 정적 자산 (`wrangler.jsonc`)
   - Deploy command: `npx wrangler deploy`
-  - Preview command: `npx wrangler versions upload`
+  - 미리보기(PR) 빌드는 `npx wrangler preview`를 쓰므로 `wrangler.jsonc`에 `"previews": {}`가 있어야 한다.
   - Cloudflare 프로젝트 이름은 `wrangler.jsonc`의 `name`(`rluan-dev`)과 같아야 한다.
 
 ## 관련 프로젝트
